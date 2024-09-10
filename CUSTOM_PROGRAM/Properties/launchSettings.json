@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CUSTOM_PROGRAM": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\1.STUDY\\2022-Semester_1\\Object_Oriented_Programming\\Custom_Program_OOP\\CUSTOM_PROGRAM"
+    }
+  }
+}
